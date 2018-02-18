@@ -160,7 +160,7 @@ HCURSOR CCardScriptComplierTest_Win32Dlg::OnQueryDragIcon()
 }
 
 #include "libmain.h"
-#pragma comment(lib, "CardScriptComplier.lib")
+//#pragma comment(lib, "CardScriptComplier.lib")
 
 void CCardScriptComplierTest_Win32Dlg::OnBnClickedButton1()
 {
